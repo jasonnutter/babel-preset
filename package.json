@@ -1,0 +1,23 @@
+{
+  "name": "@jasonnutter/babel-preset",
+  "version": "1.0.0",
+  "description": "Babel preset for Node and React apps",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonnutter/babel-preset.git"
+  },
+  "author": "Jason Nutter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasonnutter/babel-preset/issues"
+  },
+  "homepage": "https://github.com/jasonnutter/babel-preset#readme",
+  "dependencies": {
+    "babel-plugin-transform-class-properties": "^6.23.0",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-preset-env": "^1.1.8",
+    "babel-preset-react": "^6.23.0",
+    "react-hot-loader": "^1.3.1"
+  }
+}
